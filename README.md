@@ -105,8 +105,8 @@ Acceleration performance on VGG16 with (a) single method and (b) combined method
 | ------ | ------|------|
 |CD| 6.52G | 4.72G |
 |SD| 7.20G | **4.15G** |
-|CP| 6.52G | 2.1 |
-|CD+SD| |4.32G | 4.28G |
+|CP| 9.89G | 8.49G |
+|CD+SD| 4.32G | 4.28G |
 |CD+CP| 7.16G | 5.45G |
 |CD+SD+CP | 4.92G | 4.70G|
 
