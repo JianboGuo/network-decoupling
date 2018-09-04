@@ -119,11 +119,11 @@ This project is built on the repository of [channel pruning](https://github.com/
 
 ### Reference
 
-This work is based on our work *Network Decoupling: From Regular Convolution to Separable Depthwise Convolution (BMVC2018)*. If you think this is helpful for your research, please consider append following bibtex config in your latex file.
+This work is based on our work *Network Decoupling: From Regular to Depthwise Separable Convolutions (BMVC2018)*. If you think this is helpful for your research, please consider append following bibtex config in your latex file.
 
 ```Latex
 @inproceedings{guo2018nd,
-  title = {{Network Decoupling}: From Regular Convolution to Separable Depthwise Convolution},
+  title = {{Network Decoupling}: From Regular to Depthwise Separable Convolutions},
   author = {Guo, Jianbo and Li, Yuxi and Lin, Weiyao and Chen, Yurong and Li, Jianguo},
   booktitle = {BMVC},
   year = {2018}
